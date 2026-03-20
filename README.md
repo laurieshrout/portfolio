@@ -63,6 +63,5 @@ Jira, GitHub, Smartsheet, Microsoft 365, Google Workspace
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/laurie-shrout](https://www.linkedin.com/
-in/laurie-shrout)
+- **LinkedIn:** [linkedin.com/in/laurie-shrout](https://www.linkedin.com/in/laurie-shrout)
 - **Email:** Laurie.Shrout@gmail.com
