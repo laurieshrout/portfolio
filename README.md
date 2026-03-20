@@ -1,27 +1,68 @@
-# Laurie Shrout - Technical Writing Portfolio
+# Laurie Shrout — Technical Writing Portfolio
 
 ## About Me
-Brief professional summary highlighting your experience with SharePoint, documentation, and technical communication.
 
-## Featured Work
+I'm a senior technical writer with 15+ years of experience creating documentation for enterprise SaaS platforms, regulated industries, and federal programs. My work sits at the intersection of clear writing, solid information architecture, and an understanding of how people actually use software.
 
-### Advanced SharePoint Site Architecture Guide
-**Type:** Enterprise Design Documentation  
-**Audience:** SharePoint Administrators, IT Architects  
-**Skills Demonstrated:** Complex system design, enterprise architecture, stakeholder analysis  
-[View Project →](./projects/sharepoint-architecture/)
+I specialize in translating complex product functionality and workflows into documentation that's practical, accurate, and easy to navigate — whether that's a Help Center article, a step-by-step procedure, or a full SOP for a regulated environment. I also integrate AI tools like Claude and ChatGPT into my documentation workflows, which means I work faster without cutting corners on quality.
 
-### SharePoint Search Tutorial
-**Type:** User Training Documentation  
-**Audience:** End users, team members  
-**Skills Demonstrated:** User-centered design, technical training, process optimization  
-[View Project →](./projects/search-tutorial/)
+Industries I've worked in include SaaS software, federal technology, healthcare, and cloud infrastructure.
 
-## Core Competencies
-- **Documentation Types:** API docs, user guides, SOPs, training materials
-- **Tools & Platforms:** SharePoint, Microsoft 365, GitHub, Markdown
-- **Specializations:** Enterprise systems, workflow documentation, user training
+---
+
+## Writing Samples
+
+### How to Approve with Edits
+**File:** `How_to_approve_with_edits_sample.pdf`
+**Type:** Help Center task guide
+**Industry:** SaaS software (Microsoft)
+**Audience:** End users
+
+A concise, numbered procedure documenting an approval workflow within an internal platform. Includes a summary, 16-step procedure, related documents section, and keyword index — structured for quick task completion and Help Center searchability.
+
+---
+
+### Disaster Recovery Procedure (Internal)
+**File:** `Procedure_Disaster_Recovery_Internal_v1_0.pdf`
+**Type:** Internal technical procedure
+**Industry:** SaaS software (Nlyte Software)
+**Audience:** Internal system administrators and DBAs
+
+The internal counterpart to the external DR guide above. Includes additional steps covering SSIS configuration table modifications and SQL permission requirements not present in the external version — demonstrating how the same subject matter was documented differently based on audience and access level.
+
+---
+
+### Desktop Procedure — P-Account Password Change
+**File:** `P-Account_Password_Change_v1_0.pdf`
+**Type:** Desktop procedure
+**Industry:** Federal government (USDA Farm Service Agency)
+**Audience:** DataStage developers and IT staff
+
+A short, screenshot-driven procedure for changing and resetting network access gateway passwords in a federal environment. Includes project identification, document approval signatures, an acronym glossary, and conditional branching for two distinct user scenarios.
+
+---
+
+## Skills and Tools
+
+**Writing and Documentation**
+Technical writing, Help Center content, SOPs, user guides, workflow documentation, quick reference materials, video scripts, content audits, style guide development
+
+**Markup and Authoring**
+HTML, XML, Markdown, DITA, MadCap Flare, Adobe FrameMaker, RoboHelp, Microsoft Word, Adobe Acrobat
+
+**Help Center and CMS Platforms**
+Zendesk, Confluence, ServiceNow, SharePoint, Notion, CraftCMS
+
+**AI and Automation**
+Claude, ChatGPT, Microsoft Copilot, Grammarly, n8n
+
+**Collaboration and Project Management**
+Jira, GitHub, Smartsheet, Microsoft 365, Google Workspace
+
+---
 
 ## Contact
-- **Email:** [email]
-- **LinkedIn:** [link]
+
+- **LinkedIn:** [linkedin.com/in/laurie-shrout](https://www.linkedin.com/
+in/laurie-shrout)
+- **Email:** Laurie.Shrout@gmail.com
