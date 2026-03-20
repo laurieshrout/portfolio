@@ -35,13 +35,23 @@
 
 ### What You'll Learn
 
-This tutorial provides comprehensive training on SharePoint search functionality. Participants will develop proficiency in essential search techniques to improve information retrieval efficiency and reduce time spent locating documents, data, and resources.
+This guide covers the SharePoint search techniques you'll use most often:
+
+- Search by file name or document content
+- Find exact phrases
+- Combine search terms to narrow results
+- Troubleshoot searches that return no results
+
+Start with the Basic Search Techniques section and work forward, or jump to any topic using the table of contents above.
 
 ### Who Should Use This Guide
 
-- All employees with SharePoint access
-- New team members learning document management systems
-- Anyone who spends time searching for files and information
+This guide is most useful if you:
+
+- Are new to the team and still learning where things live
+- Regularly search for documents across multiple projects or departments
+- Find yourself clicking through folders instead of using search
+- Keep getting too many results — or none at all
 
 ### Prerequisites
 
@@ -76,7 +86,8 @@ body:budget
 body:"quarterly review"
 ```
 
-![Searching Document Contents Only](../../assets/images/search-body-content.jpg)
+![Searching Document Contents Only](https://github.com/user-attachments/assets/7878e192-f168-45f9-8258-f36694010323)
+
 *Figure 1: Searching Document Contents Only*
 
 #### Search Filenames Only
@@ -123,7 +134,8 @@ filename:"employee handbook"
 | `cloud migration` → 847 results | `"cloud migration"` → 23 results |
 | (includes any document with either word) | (only documents with the exact phrase) |
 
-![Using quotation marks to find exact phrases](../../assets/images/exact-phrase-search.jpg)
+![Using quotation marks to find exact phrases](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/2_Using%20quotation%20marks%20to%20find%20exact%20phrases.jpg))
+
 *Figure 2: Using quotation marks to find exact phrases*
 
 ### Handle Variations with Wildcards
@@ -143,7 +155,8 @@ filename:"employee handbook"
 > ✓ Correct: `Joh*`  
 > ✗ Incorrect: `*son`
 
-![Searching with a wildcard](../../assets/images/wildcard-search.png)
+![Searching with a wildcard](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/3_Searching%20with%20a%20wildcard.png)
+
 *Figure 3: Searching with a wildcard*
 
 ---
@@ -213,7 +226,8 @@ body:"project status" AND (urgent OR critical) NOT completed
 filename:policy AND (HR OR "human resources") NOT archived
 ```
 
-![Searching with Boolean Operators](../../assets/images/boolean-operators.jpg)
+![Searching with Boolean Operators](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/4_Searching%20with%20boolean%20operator.jpg)
+
 *Figure 4: Searching with Boolean Operators*
 
 ### Exclude with Minus Sign (Quick Method)
@@ -235,7 +249,8 @@ report -draft
 
 Both methods work identically, so choose based on your preference.
 
-![Using minus sign to exclude terms](../../assets/images/minus-exclusion.jpg)
+![Using minus sign to exclude terms](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/5_Using%20minus%20sign%20to%20exclude%20terms.jpg)
+
 *Figure 5: Using minus sign to exclude terms*
 
 ---
@@ -270,7 +285,8 @@ Sometimes traditional searching isn't the most efficient approach. These alterna
 - File Type: Excel files
 - Sort by: Modified (newest first)
 
-![Using Filter and Sort instead of search](../../assets/images/filter-sort.jpg)
+![Using Filter and Sort instead of search](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/6_Using%20filter%20and%20sort%20instead%20of%20searching.jpg)
+
 *Figure 6: Using Filter and Sort instead of search*
 
 ### Expand Your Search Scope
@@ -291,7 +307,8 @@ Sometimes traditional searching isn't the most efficient approach. These alterna
 
 > **Pro Tip:** Start narrow (site-specific) and expand gradually to avoid information overload.
 
-![Example of where to find "Expand search to all items in this site"](../../assets/images/expand-search.jpg)
+![Example of where to find "Expand search to all items in this site"](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/7_Example%20of%20where%20to%20find%20expand%20search%20to%20all%20items%20in%20this%20site.jpg)
+
 *Figure 7: Example of where to find "Expand search to all items in this site"*
 
 ---
