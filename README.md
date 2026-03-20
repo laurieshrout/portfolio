@@ -12,6 +12,20 @@ Industries I've worked in include SaaS software, federal technology, healthcare,
 
 ## Writing Samples
 
+### SharePoint Search Tutorial
+**File:** `SharePoint_Search_Tutorial.md`
+**Type:** End-user tutorial
+**Industry:** Enterprise technology
+**Audience:** All staff with SharePoint access
+
+A comprehensive tutorial covering SharePoint search techniques from
+basic to advanced. Includes scope operators, exact phrase matching,
+Boolean logic, wildcard usage, and troubleshooting guidance. Structured
+for both linear learning and quick reference, with a cheat sheet,
+common search patterns, and annotated screenshots throughout.
+
+---
+
 ### How to Approve with Edits
 **File:** `How_to_approve_with_edits_sample.pdf`
 **Type:** Help Center task guide
