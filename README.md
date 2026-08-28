@@ -27,9 +27,9 @@ common search patterns, and annotated screenshots throughout.
 ---
 
 ### How to Approve with Edits
-**File:** `How_to_approve_with_edits_sample.pdf`
+**File:** [View How to Approve with Edits](./How_to_approve_with_edits.md)
 **Type:** Help Center task guide
-**Industry:** SaaS software (Microsoft)
+**Industry:** SaaS software
 **Audience:** End users
 
 A concise, numbered procedure documenting an approval workflow within an internal platform. Includes a summary, 16-step procedure, related documents section, and keyword index — structured for quick task completion and Help Center searchability.
