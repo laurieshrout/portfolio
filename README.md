@@ -27,7 +27,7 @@ common search patterns, and annotated screenshots throughout.
 ---
 
 ### How to Approve with Edits
-**File:** [View How to Approve with Edits](./How_to_approve_with_edits.md)
+**File:** [View How to Approve with Edits](./samples/How_to_approve_with_edits.md)
 **Type:** Help Center task guide
 **Industry:** SaaS software
 **Audience:** End users
