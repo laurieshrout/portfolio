@@ -13,7 +13,7 @@ Industries I've worked in include SaaS software, federal technology, healthcare,
 ## Writing Samples
 
 ### SharePoint Search Tutorial
-**File:** `SharePoint_Search_Tutorial.md`
+**File:** [SharePoint_Search_Tutorial.md](./samples/SharePoint_Search_Tutorial.md)
 **Type:** End-user tutorial
 **Industry:** Enterprise technology
 **Audience:** All staff with SharePoint access
@@ -37,19 +37,19 @@ A concise, numbered procedure documenting an approval workflow within an interna
 ---
 
 ### Disaster Recovery Procedure (Internal)
-**File:** `Procedure_Disaster_Recovery_Internal_v1_0.pdf`
+**File:** [Disaster_Recovery_Procedure](./samples/Disaster_Recovery_Procedure.md)
 **Type:** Internal technical procedure
-**Industry:** SaaS software (Nlyte Software)
+**Industry:** SaaS software (Datacenter Infrastructure Management Software)
 **Audience:** Internal system administrators and DBAs
 
 The internal counterpart to the external DR guide above. Includes additional steps covering SSIS configuration table modifications and SQL permission requirements not present in the external version — demonstrating how the same subject matter was documented differently based on audience and access level.
 
 ---
 
-### Desktop Procedure — P-Account Password Change
-**File:** `P-Account_Password_Change_v1_0.pdf`
+### Desktop Procedure — Account Password Change
+**File:** [Account Password Change](./samples/Account_Password_Change.md)
 **Type:** Desktop procedure
-**Industry:** Federal government (USDA Farm Service Agency)
+**Industry:** Federal government
 **Audience:** DataStage developers and IT staff
 
 A short, screenshot-driven procedure for changing and resetting network access gateway passwords in a federal environment. Includes project identification, document approval signatures, an acronym glossary, and conditional branching for two distinct user scenarios.
