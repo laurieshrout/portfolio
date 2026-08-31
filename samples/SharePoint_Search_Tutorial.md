@@ -226,7 +226,7 @@ body:"project status" AND (urgent OR critical) NOT completed
 filename:policy AND (HR OR "human resources") NOT archived
 ```
 
-![Searching with Boolean Operators](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/4_Searching%20with%20boolean%20operator.jpg)
+![Searching with Boolean Operators](../assets/images/4_Searching-with-boolean-operator.jpg)
 
 *Figure 4: Searching with Boolean Operators*
 
