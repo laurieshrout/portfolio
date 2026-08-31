@@ -86,7 +86,7 @@ body:budget
 body:"quarterly review"
 ```
 
-![Searching Document Contents Only](assets/images/1_Searching Document Contents Only.jpg)
+![Searching Document Contents Only](assets/images/1_Searching-Document-Contents-Only.jpg)
 
 *Figure 1: Searching Document Contents Only*
 
