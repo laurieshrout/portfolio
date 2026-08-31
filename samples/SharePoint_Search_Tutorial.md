@@ -249,7 +249,7 @@ report -draft
 
 Both methods work identically, so choose based on your preference.
 
-![Using minus sign to exclude terms](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/5_Using%20minus%20sign%20to%20exclude%20terms.jpg)
+![Using minus sign to exclude terms](../assets/images/5_Using-minus-sign-to-exclude-terms.jpg)
 
 *Figure 5: Using minus sign to exclude terms*
 
