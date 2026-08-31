@@ -134,7 +134,7 @@ filename:"employee handbook"
 | `cloud migration` → 847 results | `"cloud migration"` → 23 results |
 | (includes any document with either word) | (only documents with the exact phrase) |
 
-![Using quotation marks to find exact phrases](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/2_Using%20quotation%20marks%20to%20find%20exact%20phrases.jpg))
+![Using quotation marks to find exact phrases](../assets/images/2_Using-quotation-marks-to-find-exact-phrases.jpg)
 
 *Figure 2: Using quotation marks to find exact phrases*
 
