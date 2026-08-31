@@ -307,7 +307,7 @@ Sometimes traditional searching isn't the most efficient approach. These alterna
 
 > **Pro Tip:** Start narrow (site-specific) and expand gradually to avoid information overload.
 
-![Example of where to find "Expand search to all items in this site"](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/7_Example%20of%20where%20to%20find%20expand%20search%20to%20all%20items%20in%20this%20site.jpg)
+![Example of where to find "Expand search to all items in this site"](../assets/images/7_Example-of-where-to-find-expand-search-to-all-items-in-this-site.jpg)
 
 *Figure 7: Example of where to find "Expand search to all items in this site"*
 
