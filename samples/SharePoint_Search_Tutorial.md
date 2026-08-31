@@ -103,7 +103,7 @@ Use `filename:keyword` when you remember part of the document title but not its 
 ```
 filename:Q4
 filename:template
-filename:SIE-2024
+filename:ACME-2024
 ```
 
 > **Pro Tip:** Combine both approaches for precision: `filename:budget AND body:forecast`
@@ -148,14 +148,14 @@ filename:"employee handbook"
 
 - Names with uncertain spelling: `Joh*` finds John, Johnson, Johannes
 - Technical terms with variations: `config*` finds configure, configuration, configs
-- Product codes or versions: `SIE-202*` finds all 2020-2029 versions
+- Product codes or versions: `ACME-202*` finds all 2020-2029 versions
 
 > **Important Limitation:** Wildcards only work at the END of words, not the beginning.
 > 
 > ✓ Correct: `Joh*`  
 > ✗ Incorrect: `*son`
 
-![Searching with a wildcard](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/3_Searching%20with%20a%20wildcard.png)
+![Searching with a wildcard](../assets/images/3_Searching-with-a-wildcard.png)
 
 *Figure 3: Searching with a wildcard*
 
