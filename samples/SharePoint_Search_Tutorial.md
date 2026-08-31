@@ -285,7 +285,7 @@ Sometimes traditional searching isn't the most efficient approach. These alterna
 - File Type: Excel files
 - Sort by: Modified (newest first)
 
-![Using Filter and Sort instead of search](https://github.com/laurieshrout/portfolio/blob/a97712ca21aae3541976e9c959dc229122e46968/assets/images/6_Using%20filter%20and%20sort%20instead%20of%20searching.jpg)
+![Using Filter and Sort instead of search](../assets/images/6_Using-filter-and-sort-instead-of-searching.jpg)
 
 *Figure 6: Using Filter and Sort instead of search*
 
